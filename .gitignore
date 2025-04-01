@@ -1,9 +1,9 @@
-.pth
-.pkl
-.log
+*.pth
+*.pkl
+*.log
 __pycache__
 feature_matrix.npy
-.json
-.pem
+*.json
+*.pem
 .env
-.csv
+*.csv
