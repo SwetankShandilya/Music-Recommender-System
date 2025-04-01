@@ -5,5 +5,5 @@ __pycache__
 feature_matrix.npy
 *.json
 *.pem
-.env
+*.env
 *.csv
