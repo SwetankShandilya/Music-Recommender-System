@@ -29,7 +29,6 @@ These models are combined into a hybrid system to provide more accurate and dive
 - **FastAPI**: Framework for serving the model as a REST API.
 - **Docker**: For containerizing the application.
 - **AWS EC2**: Hosting the application on a virtual server for scalable deployment.
-- **Git**: Version control for managing the project codebase.
 
 ## Installation
 
