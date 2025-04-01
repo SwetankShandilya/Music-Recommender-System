@@ -1,0 +1,8 @@
+kagglehub
+numpy
+pandas
+scikit-learn
+torch
+cython
+fastapi 
+uvicorn 

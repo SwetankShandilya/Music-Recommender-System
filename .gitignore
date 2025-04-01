@@ -1,0 +1,9 @@
+.pth
+.pkl
+.log
+__pycache__
+feature_matrix.npy
+.json
+.pem
+.env
+.csv
